@@ -1,6 +1,4 @@
 # 🛒 Sales Expert RAG System with NVIDIA AI
-
-![GitHub](https://github.com/ansarifaisal12/NVIDIA-RAG-Sales-Analysis-Application-End-to-End-.git)
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA%20AI-Powered-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)
