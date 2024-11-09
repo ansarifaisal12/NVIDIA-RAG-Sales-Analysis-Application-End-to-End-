@@ -6,12 +6,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)
 
 A state-of-the-art Sales Analysis RAG (Retrieval-Augmented Generation) system powered by NVIDIA's AI models. This application allows users to analyze sales data from PDF documents using natural language queries, providing intelligent insights through advanced LLM and embedding models.
-
-## 🎥 Demo
-
-[![Sales Expert RAG Demo](https://img.shields.io/badge/Watch-Demo%20Video-blue)](your_demo_video_link)
-
-[Watch the full demo video here](your_demo_video_link)
+![Screenshot 2024-11-09 102811](https://github.com/user-attachments/assets/e3bb3d59-3006-4295-a225-85987dcbd0ea)
+![2](https://github.com/user-attachments/assets/db90c5d4-9a8c-4016-939c-b2f995bf4b3f)
 
 ## ✨ Features
 
