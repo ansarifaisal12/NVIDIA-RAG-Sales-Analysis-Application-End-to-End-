@@ -1,6 +1,6 @@
 # 🛒 Sales Expert RAG System with NVIDIA AI
 
-![GitHub](https://img.shields.io/github/license/yourusername/sales-expert-rag)
+![GitHub]()
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA%20AI-Powered-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)
