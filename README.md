@@ -41,8 +41,7 @@ A state-of-the-art Sales Analysis RAG (Retrieval-Augmented Generation) system po
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sales-expert-rag.git
-cd sales-expert-rag
+git clone https://github.com/ansarifaisal12/NVIDIA-RAG-Sales-Analysis-Application-End-to-End-.git
 ```
 
 2. Create and activate virtual environment:
